@@ -7,6 +7,8 @@
     "public",
     "lib"
   ],
-  "peerDependencies": {
-    "@titaniumnetwork-dev/ultraviolet": "^3.0.0"
+  "devDependencies": {
+    "eslint": "^8.23.0",
+    "prettier": "^2.7.1"
+  }
 }
